@@ -16,8 +16,8 @@ Register constructor functions by their **logical** names.
     
 Call constructor functions by their **logical** names;
 
-    // returns a new instance of MongoloidDatabaseAdapter
     dic.get('Logger');
+    // a new instance of MongoloidDatabaseAdapter
     
 Chain constructors to build **object graphs**.
 
